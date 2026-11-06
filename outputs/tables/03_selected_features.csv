@@ -1,0 +1,4 @@
+Model,Selected features
+Logistic Regression,"Glucose, SkinThickness, Insulin, BMI, Age"
+Decision Tree,"Glucose, SkinThickness, Insulin, BMI, Age"
+Random Forest,"Glucose, SkinThickness, Insulin, BMI, Age"

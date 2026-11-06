@@ -1,0 +1,4 @@
+Model,CV Accuracy,CV Precision,CV Recall,CV F1-score,CV ROC-AUC,Best Parameters
+Logistic Regression,0.7671064907370384,0.6514775772491113,0.7198228128460686,0.682340495670685,0.8449944629014396,"{'classifier__C': 0.1, 'classifier__class_weight': 'balanced'}"
+Decision Tree,0.7198720511795282,0.572418272139234,0.7897009966777409,0.6626661565648285,0.7794116832779624,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 5, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 10}"
+Random Forest,0.7833933093429295,0.671457254411884,0.7523809523809524,0.7078461634983374,0.8376481173864894,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 5, 'classifier__min_samples_leaf': 2, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 200}"

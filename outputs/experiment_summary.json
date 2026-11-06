@@ -1,0 +1,12 @@
+{
+  "dataset": "diabetes.csv",
+  "rows": 768,
+  "input_features": 8,
+  "target_column": "Outcome",
+  "training_rows": 614,
+  "test_rows": 154,
+  "random_state": 42,
+  "best_baseline_model_by_test_roc_auc": "Random Forest",
+  "best_test_roc_auc": 0.8170370370370371,
+  "note": "Educational experiment only; not a clinically validated diagnostic system."
+}
